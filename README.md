@@ -95,7 +95,7 @@ We keep track of unresolved issues on our [GitHub Issues page](https://github.co
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for more details.
 
 ## Contact
 
